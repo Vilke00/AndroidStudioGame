@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Player List"
+        android:textSize="15sp"
+        android:layout_margin="15dp"
+        android:textColor="@color/black" />
+
+    <LinearLayout
+        android:id="@+id/layout_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" />
+
+    <Button
+        android:id="@+id/button_add"
+        android:layout_width="wrap_content"
+        android:layout_height="48dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/round_primary"
+        android:drawableRight="@drawable/ic_add"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="Add"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        app:backgroundTint="@null"  />
+
+    <Button
+        android:id="@+id/button_submit_list"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="15dp"
+        android:background="@drawable/round_primary"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="Submit List"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        app:backgroundTint="@null"  />
+
+</LinearLayout>

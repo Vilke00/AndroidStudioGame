@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Pengu/AndroidStudioProjects/CS330PZNemanjaVilic4050Java/app/src/main/res/drawable-v24/ic_add.xml" value="0.142" />
+        <entry key="..\:/Users/Pengu/AndroidStudioProjects/CS330PZNemanjaVilic4050Java/app/src/main/res/drawable-v24/ic_close.xml" value="0.1975" />
+        <entry key="..\:/Users/Pengu/AndroidStudioProjects/CS330PZNemanjaVilic4050Java/app/src/main/res/drawable/custom_button.xml" value="0.239" />
+        <entry key="..\:/Users/Pengu/AndroidStudioProjects/CS330PZNemanjaVilic4050Java/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1935" />
+        <entry key="..\:/Users/Pengu/AndroidStudioProjects/CS330PZNemanjaVilic4050Java/app/src/main/res/drawable/ic_baseline_remove_24.xml" value="0.1975" />
+        <entry key="..\:/Users/Pengu/AndroidStudioProjects/CS330PZNemanjaVilic4050Java/app/src/main/res/layout/a.xml" value="0.32083333333333336" />
+        <entry key="..\:/Users/Pengu/AndroidStudioProjects/CS330PZNemanjaVilic4050Java/app/src/main/res/layout/activity_antartica.xml" value="0.30480072463768115" />
+        <entry key="..\:/Users/Pengu/AndroidStudioProjects/CS330PZNemanjaVilic4050Java/app/src/main/res/layout/activity_igra.xml" value="0.32083333333333336" />
+        <entry key="..\:/Users/Pengu/AndroidStudioProjects/CS330PZNemanjaVilic4050Java/app/src/main/res/layout/activity_main.xml" value="0.2759259259259259" />
+        <entry key="..\:/Users/Pengu/AndroidStudioProjects/CS330PZNemanjaVilic4050Java/app/src/main/res/layout/activity_player_score.xml" value="0.26766304347826086" />
+        <entry key="..\:/Users/Pengu/AndroidStudioProjects/CS330PZNemanjaVilic4050Java/app/src/main/res/layout/activity_players.xml" value="0.15539858728557013" />
+        <entry key="..\:/Users/Pengu/AndroidStudioProjects/CS330PZNemanjaVilic4050Java/app/src/main/res/layout/activity_quiz.xml" value="0.32083333333333336" />
+        <entry key="..\:/Users/Pengu/AndroidStudioProjects/CS330PZNemanjaVilic4050Java/app/src/main/res/layout/activity_spyfall.xml" value="0.30480072463768115" />
+        <entry key="..\:/Users/Pengu/AndroidStudioProjects/CS330PZNemanjaVilic4050Java/app/src/main/res/layout/activity_winner.xml" value="0.30480072463768115" />
+        <entry key="..\:/Users/Pengu/AndroidStudioProjects/CS330PZNemanjaVilic4050Java/app/src/main/res/layout/field.xml" value="0.25679347826086957" />
+        <entry key="..\:/Users/Pengu/AndroidStudioProjects/CS330PZNemanjaVilic4050Java/app/src/main/res/layout/fragment_1.xml" value="0.32083333333333336" />
+        <entry key="..\:/Users/Pengu/AndroidStudioProjects/CS330PZNemanjaVilic4050Java/app/src/main/res/layout/fragment_2.xml" value="0.32083333333333336" />
+        <entry key="..\:/Users/Pengu/AndroidStudioProjects/CS330PZNemanjaVilic4050Java/app/src/main/res/layout/fragment_3.xml" value="0.32083333333333336" />
+        <entry key="..\:/Users/Pengu/AndroidStudioProjects/CS330PZNemanjaVilic4050Java/app/src/main/res/layout/item.xml" value="0.33" />
+        <entry key="..\:/Users/Pengu/AndroidStudioProjects/CS330PZNemanjaVilic4050Java/app/src/main/res/layout/row_add_player.xml" value="0.32083333333333336" />
+        <entry key="..\:/Users/Pengu/AndroidStudioProjects/CS330PZNemanjaVilic4050Java/app/src/main/res/layout/row_player.xml" value="0.32083333333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

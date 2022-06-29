@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="location_names">
+        <item>Stadium</item>
+        <item>Cinema</item>
+        <item>Mall</item>
+        <item>Ocean</item>
+        <item>Forest</item>
+        <item>Disneyland</item>
+    </string-array>
+</resources>

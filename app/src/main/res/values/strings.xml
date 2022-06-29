@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CS330-PZ-NemanjaVilic4050-Java</string>
+    <string name="psychopath">Are you a\npsychopath?</string>
+    <string name="at_least_3_players">3+</string>
+    <string name="spyfall">Spyfall</string>
+    <string name="antarctica">Can you survive\nAntartica?</string>
+    <string name="PsychopathGameRules">The game master will be chosen from within the group. If the game master has never played the game before and does not know the answers, he is allowed to participate. At the start of the game, the game master will enter player names or usernames, and the game will begin. The game master will read the riddles aloud, after which the players will choose their answer and explain why they chose it. If the responses were correct, the game master will increase the scores of all players once they have finished presenting their answers. The person who has the most points at the end of the game wins.\n\nGood luck!!!</string>
+    <string name="name">Name</string>
+    <string name="Disclamer">This game is just for fun and laugh. If you win a game it doesn\'t mean that you could actually survive in the situation or that you are what the titles suggested.</string>
+    <string name="SpyfallGameRules">The game master will be chosen from within the group and is not allowed to play. Each of the players will get a location based on where they are, except for the spy. Players will ask each other questions to try and find out who the spy is. The spy wins if he guesses where he is, and the players win if they guess who the spy is.</string>
+    <string name="AntarticaGameRules">So in 1915 there was a group of voyagers that went into Antarctica and got stuck,
+        but with their quick thinking and unceasing effort they managed to survive. In this game players will try to do the same. The game master will be chosen from within the group. If the game master has never played the game before and does not know the answers, he is allowed to participate. The game master will read the riddles aloud, after which the players will choose their answer and explain why they chose it. If the responses were wrong, the game master will decrease player lives once they have finished presenting their answers. Each player starts with 3 lives. The players who have lives in the end of the game win.\n\nGood luck!!!</string>
+</resources>
