@@ -7,6 +7,11 @@ The game has a user-friendly interface that allows users to select from three di
 
 Game 1:
 Game 1 requires players to solve puzzles and answer questions to win points. After each puzzle or question, the game controller can add points to the players' scores based on their performance. At the end of the game, a message is displayed to show who won (that is, who had the most points), and the user can return to the main menu.
+<p float="left">
+![image](https://user-images.githubusercontent.com/67857389/226103125-664b005e-5173-4c7d-8b9e-b29adf3f810e.png)
+
+![image](https://user-images.githubusercontent.com/67857389/226103133-4b002de7-cdd9-45c5-9a37-68dfe949e89c.png)
+</p>
 
 ![image](https://user-images.githubusercontent.com/67857389/226103125-664b005e-5173-4c7d-8b9e-b29adf3f810e.png)
 
@@ -17,8 +22,6 @@ Game 1 requires players to solve puzzles and answer questions to win points. Aft
 ![image](https://user-images.githubusercontent.com/67857389/226103139-12f40439-9493-4e6f-bd3d-d0cbf6c44808.png)
 
 ![image](https://user-images.githubusercontent.com/67857389/226103465-09ac507d-c00f-414d-a822-f2fe5b2815b5.png)
-
-![image](https://user-images.githubusercontent.com/67857389/226103476-f2d54b71-b35e-4208-a992-c4498dd17e05.png)
 
 ![image](https://user-images.githubusercontent.com/67857389/226103510-63f0da19-ca82-41c9-bd50-f90d3d846a83.png)
 
