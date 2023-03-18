@@ -11,25 +11,12 @@ Game 1 requires players to solve puzzles and answer questions to win points. Aft
 Image 1            |  Image 2
 :-------------------------:|:-------------------------:
 ![image](https://user-images.githubusercontent.com/67857389/226103125-664b005e-5173-4c7d-8b9e-b29adf3f810e.png)  |  ![image](https://user-images.githubusercontent.com/67857389/226103133-4b002de7-cdd9-45c5-9a37-68dfe949e89c.png)
-
-![image](https://user-images.githubusercontent.com/67857389/226103125-664b005e-5173-4c7d-8b9e-b29adf3f810e.png)
-
-![image](https://user-images.githubusercontent.com/67857389/226103133-4b002de7-cdd9-45c5-9a37-68dfe949e89c.png)
-
-![image](https://user-images.githubusercontent.com/67857389/226103137-a85e9f80-ff15-459b-a182-7c1e28bcf61b.png)
-
-![image](https://user-images.githubusercontent.com/67857389/226103139-12f40439-9493-4e6f-bd3d-d0cbf6c44808.png)
-
-![image](https://user-images.githubusercontent.com/67857389/226103465-09ac507d-c00f-414d-a822-f2fe5b2815b5.png)
-
-![image](https://user-images.githubusercontent.com/67857389/226103510-63f0da19-ca82-41c9-bd50-f90d3d846a83.png)
-
-![image](https://user-images.githubusercontent.com/67857389/226103517-63b6b056-ff03-4f22-bf47-9edff45e9631.png)
-
-![image](https://user-images.githubusercontent.com/67857389/226103525-69ad5659-9d68-4f06-b13c-ebcd70914766.png)
-
-![image](https://user-images.githubusercontent.com/67857389/226103531-4aa48a4f-8122-462e-9b99-d16a197477d7.png)
-
+:-------------------------:|:-------------------------:
+![image](https://user-images.githubusercontent.com/67857389/226103137-a85e9f80-ff15-459b-a182-7c1e28bcf61b.png) | ![image](https://user-images.githubusercontent.com/67857389/226103139-12f40439-9493-4e6f-bd3d-d0cbf6c44808.png)
+:-------------------------:|:-------------------------:
+![image](https://user-images.githubusercontent.com/67857389/226103510-63f0da19-ca82-41c9-bd50-f90d3d846a83.png) | ![image](https://user-images.githubusercontent.com/67857389/226103517-63b6b056-ff03-4f22-bf47-9edff45e9631.png)
+:-------------------------:|:-------------------------:
+![image](https://user-images.githubusercontent.com/67857389/226103525-69ad5659-9d68-4f06-b13c-ebcd70914766.png) | ![image](https://user-images.githubusercontent.com/67857389/226103531-4aa48a4f-8122-462e-9b99-d16a197477d7.png)
 
 Game 2:
 Game 2 is a spy-themed game that generates a spy based on the entered names. The other players receive a random location that the spy does not know. The spy wins if they guess the location, and the other players win if they discover the spy. After the game, the user returns to the main menu.
